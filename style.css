@@ -2,8 +2,7 @@ body {
   font-family: sans-serif;
   text-align: center;
   margin: 20px;
-  background-color: honeydew; /* light greenish background */
-}
+  background-color: honeydew; 
 
 .title {
   margin-bottom: 10px;
@@ -18,7 +17,7 @@ body {
   gap: 10px;
   justify-content: center;
   margin: 20px auto;
-  background-color: mintcream; /* subtle light background for board */
+  background-color: mintcream; 
   padding: 15px;
   border-radius: 12px;
   box-shadow: 0 0 10px #a2d5ab;
